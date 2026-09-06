@@ -1,0 +1,6 @@
+{
+  "name": "Start Finanças",
+  "description": "Um aplicativo de controle financeiro pessoal completo, focado em praticidade para o dia a dia!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
